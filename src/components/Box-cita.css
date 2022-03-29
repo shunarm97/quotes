@@ -1,0 +1,23 @@
+.Box-cita {
+    display: flex;
+    flex-direction: column;
+    border: 5px solid rgb(0, 0, 0);
+    margin: 10px;
+    padding: 20px;
+    height: auto;
+    width: 500px;
+    align-items: flex-end;
+    background-color: aqua;
+    border-radius: 20PX;
+}
+.Box-cita p {
+    text-align: right;
+}
+
+.Box-cita button {
+    /* align-content:center */
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color:darkmagenta;
+}
